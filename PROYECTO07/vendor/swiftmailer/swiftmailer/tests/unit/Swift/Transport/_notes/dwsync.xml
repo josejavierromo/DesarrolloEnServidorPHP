@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpEventSupportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956279449113" remote="130646155200000000" Dst="1" />
+<file name="AbstractSmtpTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956280799230" remote="130646155200000000" Dst="1" />
+<file name="EsmtpTransportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283324347" remote="130646155200000000" Dst="1" />
+<file name="FailoverTransportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283474502" remote="130646155200000000" Dst="1" />
+<file name="LoadBalancedTransportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283554355" remote="130646155200000000" Dst="1" />
+<file name="MailTransportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283694688" remote="130646155200000000" Dst="1" />
+<file name="SendmailTransportTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283814343" remote="130646155200000000" Dst="1" />
+<file name="StreamBufferTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956283954389" remote="130646155200000000" Dst="1" />
+</dwsync>

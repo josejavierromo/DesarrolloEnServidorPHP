@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956299246971" remote="130646155800000000" Dst="1" />
+<file name="ArrayCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956299636954" remote="130646155800000000" Dst="1" />
+<file name="Cache.php" server="192.168.1.13//var/www/html/yii/" local="130682956299816936" remote="130646155800000000" Dst="1" />
+<file name="ChainedDependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956299876930" remote="130646155800000000" Dst="1" />
+<file name="DbCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956299996924" remote="130646155800000000" Dst="1" />
+<file name="DbDependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956300146967" remote="130646155800000000" Dst="1" />
+<file name="Dependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956300297018" remote="130646155800000000" Dst="1" />
+<file name="DummyCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956300387160" remote="130646155800000000" Dst="1" />
+<file name="ExpressionDependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956300536925" remote="130646155800000000" Dst="1" />
+<file name="FileCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956300626930" remote="130646155800000000" Dst="1" />
+<file name="FileDependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956300777398" remote="130646155800000000" Dst="1" />
+<file name="MemCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956300896955" remote="130646155800000000" Dst="1" />
+<file name="MemCacheServer.php" server="192.168.1.13//var/www/html/yii/" local="130682956303246936" remote="130646155800000000" Dst="1" />
+<file name="TagDependency.php" server="192.168.1.13//var/www/html/yii/" local="130682956303246936" remote="130646155800000000" Dst="1" />
+<file name="WinCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956303307180" remote="130646155800000000" Dst="1" />
+<file name="XCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956304407831" remote="130646155800000000" Dst="1" />
+<file name="ZendDataCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956304867923" remote="130646155800000000" Dst="1" />
+</dwsync>

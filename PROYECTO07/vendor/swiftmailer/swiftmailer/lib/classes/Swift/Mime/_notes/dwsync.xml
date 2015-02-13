@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="192.168.1.13//var/www/html/yii/" local="130682956193293947" remote="130646155200000000" Dst="1" />
+<file name="CharsetObserver.php" server="192.168.1.13//var/www/html/yii/" local="130682956193574079" remote="130646155200000000" Dst="1" />
+<file name="ContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194943958" remote="130646155200000000" Dst="1" />
+<file name="EmbeddedFile.php" server="192.168.1.13//var/www/html/yii/" local="130682956195063955" remote="130646155200000000" Dst="1" />
+<file name="EncodingObserver.php" server="192.168.1.13//var/www/html/yii/" local="130682956195193965" remote="130646155200000000" Dst="1" />
+<file name="Grammar.php" server="192.168.1.13//var/www/html/yii/" local="130682956195333977" remote="130646155200000000" Dst="1" />
+<file name="Header.php" server="192.168.1.13//var/www/html/yii/" local="130682956195473953" remote="130646155200000000" Dst="1" />
+<file name="HeaderEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956197549228" remote="130646155200000000" Dst="1" />
+<file name="HeaderFactory.php" server="192.168.1.13//var/www/html/yii/" local="130682956197659651" remote="130646155200000000" Dst="1" />
+<file name="HeaderSet.php" server="192.168.1.13//var/www/html/yii/" local="130682956197878813" remote="130646155200000000" Dst="1" />
+<file name="Message.php" server="192.168.1.13//var/www/html/yii/" local="130682956199835583" remote="130646155200000000" Dst="1" />
+<file name="MimeEntity.php" server="192.168.1.13//var/www/html/yii/" local="130682956200105755" remote="130646155200000000" Dst="1" />
+<file name="MimePart.php" server="192.168.1.13//var/www/html/yii/" local="130682956201104178" remote="130646155200000000" Dst="1" />
+<file name="ParameterizedHeader.php" server="192.168.1.13//var/www/html/yii/" local="130682956201583969" remote="130646155200000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="192.168.1.13//var/www/html/yii/" local="130682956201703958" remote="130646155200000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="192.168.1.13//var/www/html/yii/" local="130682956201895969" remote="130646155200000000" Dst="1" />
+<file name="SimpleMessage.php" server="192.168.1.13//var/www/html/yii/" local="130682956202063936" remote="130646155200000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="192.168.1.13//var/www/html/yii/" local="130682956202244303" remote="130646155200000000" Dst="1" />
+</dwsync>

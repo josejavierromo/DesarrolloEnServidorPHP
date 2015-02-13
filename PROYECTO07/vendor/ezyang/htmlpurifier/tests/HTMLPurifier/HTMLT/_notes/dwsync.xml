@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="allowed-preserve.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956041505686" remote="130646155200000000" Dst="1" />
+<file name="allowed-remove.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956041985652" remote="130646155200000000" Dst="1" />
+<file name="basic.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042105687" remote="130646155200000000" Dst="1" />
+<file name="blacklist-preserve.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042185656" remote="130646155200000000" Dst="1" />
+<file name="blacklist-remove.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042305660" remote="130646155200000000" Dst="1" />
+<file name="css-allowed-preserve.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042385668" remote="130646155200000000" Dst="1" />
+<file name="css-allowed-remove.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042465666" remote="130646155200000000" Dst="1" />
+<file name="disable-uri.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042625657" remote="130646155200000000" Dst="1" />
+<file name="double-youtube.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042745664" remote="130646155200000000" Dst="1" />
+<file name="empty.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042865684" remote="130646155200000000" Dst="1" />
+<file name="file-uri.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956042907047" remote="130646155200000000" Dst="1" />
+<file name="id-default.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956043065955" remote="130646155200000000" Dst="1" />
+<file name="id-enabled.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956043187563" remote="130646155200000000" Dst="1" />
+<file name="id-img.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956043346773" remote="130646155200000000" Dst="1" />
+<file name="id-name-mix.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956043585680" remote="130646155200000000" Dst="1" />
+<file name="inline-list-loop.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956044665670" remote="130646155200000000" Dst="1" />
+<file name="inline-wraps-block.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956045145691" remote="130646155200000000" Dst="1" />
+<file name="list-nesting.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956045265691" remote="130646155200000000" Dst="1" />
+<file name="munge-extra.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956045385817" remote="130646155200000000" Dst="1" />
+<file name="munge.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956045545894" remote="130646155200000000" Dst="1" />
+<file name="name.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956045788086" remote="130646155200000000" Dst="1" />
+<file name="safe-iframe-googlemaps.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046065674" remote="130646155200000000" Dst="1" />
+<file name="safe-iframe-invalid.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046185814" remote="130646155200000000" Dst="1" />
+<file name="safe-iframe-youtube.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046225688" remote="130646155200000000" Dst="1" />
+<file name="safe-iframe.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046465658" remote="130646155200000000" Dst="1" />
+<file name="safe-object-embed-munge.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046596280" remote="130646155200000000" Dst="1" />
+<file name="safe-object-embed.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046665700" remote="130646155200000000" Dst="1" />
+<file name="script-bare.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046865682" remote="130646155200000000" Dst="1" />
+<file name="script-cdata.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046905678" remote="130646155200000000" Dst="1" />
+<file name="script-comment.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956046985677" remote="130646155200000000" Dst="1" />
+<file name="script-dbl-comment.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956048026022" remote="130646155200000000" Dst="1" />
+<file name="script-ideal.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956048625700" remote="130646155200000000" Dst="1" />
+<file name="secure-munge.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956048787902" remote="130646155200000000" Dst="1" />
+<file name="shift-jis-preserve-yen.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956048905841" remote="130646155200000000" Dst="1" />
+<file name="shift-jis-remove-yen.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049105822" remote="130646155200000000" Dst="1" />
+<file name="strict-blockquote-with-inline.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049226323" remote="130646155200000000" Dst="1" />
+<file name="strict-blockquote.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049385808" remote="130646155200000000" Dst="1" />
+<file name="strict-underline.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049545762" remote="130646155200000000" Dst="1" />
+<file name="style-onload.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049705967" remote="130646155200000000" Dst="1" />
+<file name="tidy-background.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049865850" remote="130646155200000000" Dst="1" />
+<file name="trusted-comments-required.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956049985691" remote="130646155200000000" Dst="1" />
+<file name="trusted-comments-table.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956050105665" remote="130646155200000000" Dst="1" />
+<file name="trusted-comments.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956050345694" remote="130646155200000000" Dst="1" />
+<file name="whitespace-preserve.htmlt" server="192.168.1.13//var/www/html/yii/" local="130682956050385687" remote="130646155200000000" Dst="1" />
+</dwsync>

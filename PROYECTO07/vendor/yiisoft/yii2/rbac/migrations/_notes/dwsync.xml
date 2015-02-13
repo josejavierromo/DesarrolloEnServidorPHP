@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="m140506_102106_rbac_init.php" server="192.168.1.13//var/www/html/yii/" local="130682956371055092" remote="130646155800000000" Dst="1" />
+<file name="schema-mssql.sql" server="192.168.1.13//var/www/html/yii/" local="130682956371445545" remote="130646155800000000" Dst="1" />
+<file name="schema-mysql.sql" server="192.168.1.13//var/www/html/yii/" local="130682956371565079" remote="130646155800000000" Dst="1" />
+<file name="schema-oci.sql" server="192.168.1.13//var/www/html/yii/" local="130682956371705068" remote="130646155800000000" Dst="1" />
+<file name="schema-pgsql.sql" server="192.168.1.13//var/www/html/yii/" local="130682956371865063" remote="130646155800000000" Dst="1" />
+<file name="schema-sqlite.sql" server="192.168.1.13//var/www/html/yii/" local="130682956372015093" remote="130646155800000000" Dst="1" />
+</dwsync>

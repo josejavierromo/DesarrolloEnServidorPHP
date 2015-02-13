@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessControl.php" server="192.168.1.13//var/www/html/yii/" local="130682956326129364" remote="130646155800000000" Dst="1" />
+<file name="AccessRule.php" server="192.168.1.13//var/www/html/yii/" local="130682956326449281" remote="130646155800000000" Dst="1" />
+<file name="ContentNegotiator.php" server="192.168.1.13//var/www/html/yii/" local="130682956326609300" remote="130646155800000000" Dst="1" />
+<file name="Cors.php" server="192.168.1.13//var/www/html/yii/" local="130682956326849286" remote="130646155800000000" Dst="1" />
+<file name="HttpCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956326849286" remote="130646155800000000" Dst="1" />
+<file name="PageCache.php" server="192.168.1.13//var/www/html/yii/" local="130682956327009340" remote="130646155800000000" Dst="1" />
+<file name="RateLimitInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956327169560" remote="130646155800000000" Dst="1" />
+<file name="RateLimiter.php" server="192.168.1.13//var/www/html/yii/" local="130682956327248959" remote="130646155800000000" Dst="1" />
+<file name="VerbFilter.php" server="192.168.1.13//var/www/html/yii/" local="130682956327409299" remote="130646155800000000" Dst="1" />
+</dwsync>

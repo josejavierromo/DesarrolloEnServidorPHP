@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActiveQuery.php" server="192.168.1.13//var/www/html/yii/" local="130682956313831871" remote="130646155800000000" Dst="1" />
+<file name="ActiveQueryInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956314192154" remote="130646155800000000" Dst="1" />
+<file name="ActiveQueryTrait.php" server="192.168.1.13//var/www/html/yii/" local="130682956314311786" remote="130646155800000000" Dst="1" />
+<file name="ActiveRecord.php" server="192.168.1.13//var/www/html/yii/" local="130682956314431768" remote="130646155800000000" Dst="1" />
+<file name="ActiveRecordInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956314591742" remote="130646155800000000" Dst="1" />
+<file name="ActiveRelationTrait.php" server="192.168.1.13//var/www/html/yii/" local="130682956314711817" remote="130646155800000000" Dst="1" />
+<file name="AfterSaveEvent.php" server="192.168.1.13//var/www/html/yii/" local="130682956314832054" remote="130646155800000000" Dst="1" />
+<file name="BaseActiveRecord.php" server="192.168.1.13//var/www/html/yii/" local="130682956314951730" remote="130646155800000000" Dst="1" />
+<file name="BatchQueryResult.php" server="192.168.1.13//var/www/html/yii/" local="130682956315012225" remote="130646155800000000" Dst="1" />
+<file name="ColumnSchema.php" server="192.168.1.13//var/www/html/yii/" local="130682956315211820" remote="130646155800000000" Dst="1" />
+<file name="Command.php" server="192.168.1.13//var/www/html/yii/" local="130682956315311852" remote="130646155800000000" Dst="1" />
+<file name="Connection.php" server="192.168.1.13//var/www/html/yii/" local="130682956315411810" remote="130646155800000000" Dst="1" />
+<file name="DataReader.php" server="192.168.1.13//var/www/html/yii/" local="130682956315611821" remote="130646155800000000" Dst="1" />
+<file name="Exception.php" server="192.168.1.13//var/www/html/yii/" local="130682956315731853" remote="130646155800000000" Dst="1" />
+<file name="Expression.php" server="192.168.1.13//var/www/html/yii/" local="130682956315871759" remote="130646155800000000" Dst="1" />
+<file name="IntegrityException.php" server="192.168.1.13//var/www/html/yii/" local="130682956317031750" remote="130646155800000000" Dst="1" />
+<file name="Migration.php" server="192.168.1.13//var/www/html/yii/" local="130682956317471895" remote="130646155800000000" Dst="1" />
+<file name="MigrationInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956317591754" remote="130646155800000000" Dst="1" />
+<file name="Query.php" server="192.168.1.13//var/www/html/yii/" local="130682956317711782" remote="130646155800000000" Dst="1" />
+<file name="QueryBuilder.php" server="192.168.1.13//var/www/html/yii/" local="130682956317831749" remote="130646155800000000" Dst="1" />
+<file name="QueryInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956317971749" remote="130646155800000000" Dst="1" />
+<file name="QueryTrait.php" server="192.168.1.13//var/www/html/yii/" local="130682956318131756" remote="130646155800000000" Dst="1" />
+<file name="Schema.php" server="192.168.1.13//var/www/html/yii/" local="130682956318231874" remote="130646155800000000" Dst="1" />
+<file name="StaleObjectException.php" server="192.168.1.13//var/www/html/yii/" local="130682956318391818" remote="130646155800000000" Dst="1" />
+<file name="TableSchema.php" server="192.168.1.13//var/www/html/yii/" local="130682956318531752" remote="130646155800000000" Dst="1" />
+<file name="Transaction.php" server="192.168.1.13//var/www/html/yii/" local="130682956318671758" remote="130646155800000000" Dst="1" />
+</dwsync>

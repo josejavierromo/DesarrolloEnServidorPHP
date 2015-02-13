@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aliasesAliasCollision.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956024371500" remote="130646155200000000" Dst="1" />
+<file name="aliasesDirectiveCollision.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956024566789" remote="130646155200000000" Dst="1" />
+<file name="allowedIsString.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956024695601" remote="130646155200000000" Dst="1" />
+<file name="allowedNotEmpty.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956024845551" remote="130646155200000000" Dst="1" />
+<file name="defaultIsAllowed.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025197243" remote="130646155200000000" Dst="1" />
+<file name="defaultNullWithAllowed.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025287285" remote="130646155200000000" Dst="1" />
+<file name="defaultType.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025317306" remote="130646155200000000" Dst="1" />
+<file name="descriptionNotEmpty.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025377262" remote="130646155200000000" Dst="1" />
+<file name="ignoreNamespace.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025507889" remote="130646155200000000" Dst="1" />
+<file name="typeDefined.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025727235" remote="130646155200000000" Dst="1" />
+<file name="typeExists.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956025897212" remote="130646155200000000" Dst="1" />
+<file name="typeWithAllowedIsStringType.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956026027197" remote="130646155200000000" Dst="1" />
+<file name="typeWithValueAliasesIsStringType.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956026197291" remote="130646155200000000" Dst="1" />
+<file name="unique.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956026358460" remote="130646155200000000" Dst="1" />
+<file name="valueAliasesAliasIsString.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956026500124" remote="130646155200000000" Dst="1" />
+<file name="valueAliasesAliasNotAllowed.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956027621440" remote="130646155200000000" Dst="1" />
+<file name="valueAliasesNotAliasSelf.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956028180773" remote="130646155200000000" Dst="1" />
+<file name="valueAliasesRealAllowed.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956028251041" remote="130646155200000000" Dst="1" />
+<file name="valueAliasesRealIsString.vtest" server="192.168.1.13//var/www/html/yii/" local="130682956028391132" remote="130646155200000000" Dst="1" />
+</dwsync>

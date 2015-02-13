@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_autoload.inc" server="192.168.1.13//var/www/html/yii/" local="130682956057997771" remote="130646155200000000" Dst="1" />
+<file name="_no-autoload.inc" server="192.168.1.13//var/www/html/yii/" local="130682956058217635" remote="130646155200000000" Dst="1" />
+<file name="auto-includes.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956058357635" remote="130646155200000000" Dst="1" />
+<file name="auto-with-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956058567647" remote="130646155200000000" Dst="1" />
+<file name="auto-with-spl-autoload-default.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956058738031" remote="130646155200000000" Dst="1" />
+<file name="auto-with-spl-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956058937683" remote="130646155200000000" Dst="1" />
+<file name="auto-without-spl-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059037703" remote="130646155200000000" Dst="1" />
+<file name="auto-without-spl-with-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059137637" remote="130646155200000000" Dst="1" />
+<file name="auto.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059257789" remote="130646155200000000" Dst="1" />
+<file name="error-auto-with-spl-nonstatic-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059417630" remote="130646155200000000" Dst="1" />
+<file name="path-includes-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059619326" remote="130646155200000000" Dst="1" />
+<file name="path-includes.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059837636" remote="130646155200000000" Dst="1" />
+<file name="safe-includes.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956059987686" remote="130646155200000000" Dst="1" />
+<file name="standalone-autoload.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956060117898" remote="130646155200000000" Dst="1" />
+<file name="standalone-with-prefix.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956060287630" remote="130646155200000000" Dst="1" />
+<file name="standalone.phpt" server="192.168.1.13//var/www/html/yii/" local="130682956061397626" remote="130646155200000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Composite.php" server="192.168.1.13//var/www/html/yii/" local="130682955969269643" remote="130646155200000000" Dst="1" />
+<file name="Core.php" server="192.168.1.13//var/www/html/yii/" local="130682955969749347" remote="130646155200000000" Dst="1" />
+<file name="FixNesting.php" server="192.168.1.13//var/www/html/yii/" local="130682955969869924" remote="130646155200000000" Dst="1" />
+<file name="MakeWellFormed.php" server="192.168.1.13//var/www/html/yii/" local="130682955969989316" remote="130646155200000000" Dst="1" />
+<file name="RemoveForeignElements.php" server="192.168.1.13//var/www/html/yii/" local="130682955970111274" remote="130646155200000000" Dst="1" />
+<file name="ValidateAttributes.php" server="192.168.1.13//var/www/html/yii/" local="130682955970240496" remote="130646155200000000" Dst="1" />
+</dwsync>

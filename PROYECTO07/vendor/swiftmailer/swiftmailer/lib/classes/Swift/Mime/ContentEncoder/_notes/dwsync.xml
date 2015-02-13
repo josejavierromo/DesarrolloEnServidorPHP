@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Base64ContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194023942" remote="130646155200000000" Dst="1" />
+<file name="NativeQpContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194283960" remote="130646155200000000" Dst="1" />
+<file name="PlainContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194434000" remote="130646155200000000" Dst="1" />
+<file name="QpContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194574034" remote="130646155200000000" Dst="1" />
+<file name="QpContentEncoderProxy.php" server="192.168.1.13//var/www/html/yii/" local="130682956194673968" remote="130646155200000000" Dst="1" />
+<file name="RawContentEncoder.php" server="192.168.1.13//var/www/html/yii/" local="130682956194793997" remote="130646155200000000" Dst="1" />
+</dwsync>

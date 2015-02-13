@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DbTarget.php" server="192.168.1.13//var/www/html/yii/" local="130682956340695832" remote="130646155800000000" Dst="1" />
+<file name="Dispatcher.php" server="192.168.1.13//var/www/html/yii/" local="130682956340995707" remote="130646155800000000" Dst="1" />
+<file name="EmailTarget.php" server="192.168.1.13//var/www/html/yii/" local="130682956341095709" remote="130646155800000000" Dst="1" />
+<file name="FileTarget.php" server="192.168.1.13//var/www/html/yii/" local="130682956341196995" remote="130646155800000000" Dst="1" />
+<file name="Logger.php" server="192.168.1.13//var/www/html/yii/" local="130682956341346602" remote="130646155800000000" Dst="1" />
+<file name="SyslogTarget.php" server="192.168.1.13//var/www/html/yii/" local="130682956341545811" remote="130646155800000000" Dst="1" />
+<file name="Target.php" server="192.168.1.13//var/www/html/yii/" local="130682956341595754" remote="130646155800000000" Dst="1" />
+</dwsync>

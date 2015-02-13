@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956203523883" remote="130646155200000000" Dst="1" />
+<file name="BandwidthMonitorPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956203902991" remote="130646155200000000" Dst="1" />
+<file name="DecoratorPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956204623010" remote="130646155200000000" Dst="1" />
+<file name="ImpersonatePlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956204773340" remote="130646155200000000" Dst="1" />
+<file name="Logger.php" server="192.168.1.13//var/www/html/yii/" local="130682956204862989" remote="130646155200000000" Dst="1" />
+<file name="LoggerPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956204983292" remote="130646155200000000" Dst="1" />
+<file name="MessageLogger.php" server="192.168.1.13//var/www/html/yii/" local="130682956206151695" remote="130646155200000000" Dst="1" />
+<file name="PopBeforeSmtpPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956206991700" remote="130646155200000000" Dst="1" />
+<file name="RedirectingPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956207121682" remote="130646155200000000" Dst="1" />
+<file name="Reporter.php" server="192.168.1.13//var/www/html/yii/" local="130682956207261850" remote="130646155200000000" Dst="1" />
+<file name="ReporterPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956207371704" remote="130646155200000000" Dst="1" />
+<file name="Sleeper.php" server="192.168.1.13//var/www/html/yii/" local="130682956209021694" remote="130646155200000000" Dst="1" />
+<file name="ThrottlerPlugin.php" server="192.168.1.13//var/www/html/yii/" local="130682956209321687" remote="130646155200000000" Dst="1" />
+<file name="Timer.php" server="192.168.1.13//var/www/html/yii/" local="130682956209441732" remote="130646155200000000" Dst="1" />
+</dwsync>

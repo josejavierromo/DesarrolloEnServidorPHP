@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CompositeTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956064010073" remote="130646155200000000" Dst="1" />
+<file name="CoreTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956064299899" remote="130646155200000000" Dst="1" />
+<file name="ErrorsHarness.php" server="192.168.1.13//var/www/html/yii/" local="130682956064459883" remote="130646155200000000" Dst="1" />
+<file name="FixNestingTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956064681201" remote="130646155200000000" Dst="1" />
+<file name="FixNesting_ErrorsTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956064739882" remote="130646155200000000" Dst="1" />
+<file name="MakeWellFormed_ErrorsTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066389872" remote="130646155200000000" Dst="1" />
+<file name="MakeWellFormedTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066400254" remote="130646155200000000" Dst="1" />
+<file name="MakeWellFormed_InjectorTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066479975" remote="130646155200000000" Dst="1" />
+<file name="RemoveForeignElementsTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066579862" remote="130646155200000000" Dst="1" />
+<file name="RemoveForeignElements_ErrorsTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066669856" remote="130646155200000000" Dst="1" />
+<file name="RemoveForeignElements_TidyTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066779881" remote="130646155200000000" Dst="1" />
+<file name="ValidateAttributesTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956066909884" remote="130646155200000000" Dst="1" />
+<file name="ValidateAttributes_IDTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956067029876" remote="130646155200000000" Dst="1" />
+<file name="ValidateAttributes_TidyTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956067169892" remote="130646155200000000" Dst="1" />
+</dwsync>

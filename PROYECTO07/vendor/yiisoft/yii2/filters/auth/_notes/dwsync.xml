@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthInterface.php" server="192.168.1.13//var/www/html/yii/" local="130682956328369004" remote="130646155800000000" Dst="1" />
+<file name="AuthMethod.php" server="192.168.1.13//var/www/html/yii/" local="130682956328689144" remote="130646155800000000" Dst="1" />
+<file name="HttpBasicAuth.php" server="192.168.1.13//var/www/html/yii/" local="130682956328929165" remote="130646155800000000" Dst="1" />
+<file name="CompositeAuth.php" server="192.168.1.13//var/www/html/yii/" local="130682956329009310" remote="130646155800000000" Dst="1" />
+<file name="HttpBearerAuth.php" server="192.168.1.13//var/www/html/yii/" local="130682956329093321" remote="130646155800000000" Dst="1" />
+<file name="QueryParamAuth.php" server="192.168.1.13//var/www/html/yii/" local="130682956329248941" remote="130646155800000000" Dst="1" />
+</dwsync>

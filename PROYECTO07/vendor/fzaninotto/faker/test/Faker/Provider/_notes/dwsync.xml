@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956157400382" remote="130646155800000000" Dst="1" />
+<file name="ColorTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956157790550" remote="130646155800000000" Dst="1" />
+<file name="DateTimeTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956157900768" remote="130646155800000000" Dst="1" />
+<file name="ImageTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158100439" remote="130646155800000000" Dst="1" />
+<file name="InternetTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158260570" remote="130646155800000000" Dst="1" />
+<file name="LocalizationTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158360431" remote="130646155800000000" Dst="1" />
+<file name="LoremTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158490390" remote="130646155800000000" Dst="1" />
+<file name="PaymentTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158600391" remote="130646155800000000" Dst="1" />
+<file name="PersonTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158740825" remote="130646155800000000" Dst="1" />
+<file name="ProviderOverrideTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956158880520" remote="130646155800000000" Dst="1" />
+<file name="TextTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956159000400" remote="130646155800000000" Dst="1" />
+<file name="UserAgentTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956159120535" remote="130646155800000000" Dst="1" />
+<file name="UuidTest.php" server="192.168.1.13//var/www/html/yii/" local="130682956159300388" remote="130646155800000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="alerts.less" server="192.168.1.13//var/www/html/yii/" local="130682955754797879" remote="130646155800000000" Dst="1" />
+<file name="badges.less" server="192.168.1.13//var/www/html/yii/" local="130682955755308319" remote="130646155800000000" Dst="1" />
+<file name="bootstrap.less" server="192.168.1.13//var/www/html/yii/" local="130682955755398168" remote="130646155800000000" Dst="1" />
+<file name="breadcrumbs.less" server="192.168.1.13//var/www/html/yii/" local="130682955755517935" remote="130646155800000000" Dst="1" />
+<file name="button-groups.less" server="192.168.1.13//var/www/html/yii/" local="130682955755637910" remote="130646155800000000" Dst="1" />
+<file name="buttons.less" server="192.168.1.13//var/www/html/yii/" local="130682955755758104" remote="130646155800000000" Dst="1" />
+<file name="carousel.less" server="192.168.1.13//var/www/html/yii/" local="130682955755878421" remote="130646155800000000" Dst="1" />
+<file name="close.less" server="192.168.1.13//var/www/html/yii/" local="130682955755997869" remote="130646155800000000" Dst="1" />
+<file name="code.less" server="192.168.1.13//var/www/html/yii/" local="130682955756119716" remote="130646155800000000" Dst="1" />
+<file name="component-animations.less" server="192.168.1.13//var/www/html/yii/" local="130682955756238042" remote="130646155800000000" Dst="1" />
+<file name="dropdowns.less" server="192.168.1.13//var/www/html/yii/" local="130682955756358300" remote="130646155800000000" Dst="1" />
+<file name="forms.less" server="192.168.1.13//var/www/html/yii/" local="130682955756507883" remote="130646155800000000" Dst="1" />
+<file name="glyphicons.less" server="192.168.1.13//var/www/html/yii/" local="130682955756597934" remote="130646155800000000" Dst="1" />
+<file name="grid.less" server="192.168.1.13//var/www/html/yii/" local="130682955756747890" remote="130646155800000000" Dst="1" />
+<file name="input-groups.less" server="192.168.1.13//var/www/html/yii/" local="130682955756867892" remote="130646155800000000" Dst="1" />
+<file name="jumbotron.less" server="192.168.1.13//var/www/html/yii/" local="130682955758037865" remote="130646155800000000" Dst="1" />
+<file name="labels.less" server="192.168.1.13//var/www/html/yii/" local="130682955758459259" remote="130646155800000000" Dst="1" />
+<file name="list-group.less" server="192.168.1.13//var/www/html/yii/" local="130682955758577951" remote="130646155800000000" Dst="1" />
+<file name="media.less" server="192.168.1.13//var/www/html/yii/" local="130682955758697918" remote="130646155800000000" Dst="1" />
+<file name="mixins.less" server="192.168.1.13//var/www/html/yii/" local="130682955765487779" remote="130646155800000000" Dst="1" />
+<file name="modals.less" server="192.168.1.13//var/www/html/yii/" local="130682955765648448" remote="130646155800000000" Dst="1" />
+<file name="navbar.less" server="192.168.1.13//var/www/html/yii/" local="130682955765788032" remote="130646155800000000" Dst="1" />
+<file name="navs.less" server="192.168.1.13//var/www/html/yii/" local="130682955765928136" remote="130646155800000000" Dst="1" />
+<file name="normalize.less" server="192.168.1.13//var/www/html/yii/" local="130682955766047830" remote="130646155800000000" Dst="1" />
+<file name="pager.less" server="192.168.1.13//var/www/html/yii/" local="130682955766207811" remote="130646155800000000" Dst="1" />
+<file name="pagination.less" server="192.168.1.13//var/www/html/yii/" local="130682955766348210" remote="130646155800000000" Dst="1" />
+<file name="panels.less" server="192.168.1.13//var/www/html/yii/" local="130682955766467933" remote="130646155800000000" Dst="1" />
+<file name="popovers.less" server="192.168.1.13//var/www/html/yii/" local="130682955766607886" remote="130646155800000000" Dst="1" />
+<file name="print.less" server="192.168.1.13//var/www/html/yii/" local="130682955766727803" remote="130646155800000000" Dst="1" />
+<file name="progress-bars.less" server="192.168.1.13//var/www/html/yii/" local="130682955768407789" remote="130646155800000000" Dst="1" />
+<file name="responsive-embed.less" server="192.168.1.13//var/www/html/yii/" local="130682955768967806" remote="130646155800000000" Dst="1" />
+<file name="responsive-utilities.less" server="192.168.1.13//var/www/html/yii/" local="130682955769107879" remote="130646155800000000" Dst="1" />
+<file name="scaffolding.less" server="192.168.1.13//var/www/html/yii/" local="130682955769187801" remote="130646155800000000" Dst="1" />
+<file name="tables.less" server="192.168.1.13//var/www/html/yii/" local="130682955769427796" remote="130646155800000000" Dst="1" />
+<file name="theme.less" server="192.168.1.13//var/www/html/yii/" local="130682955770657991" remote="130646155800000000" Dst="1" />
+<file name="thumbnails.less" server="192.168.1.13//var/www/html/yii/" local="130682955770689776" remote="130646155800000000" Dst="1" />
+<file name="tooltip.less" server="192.168.1.13//var/www/html/yii/" local="130682955770870416" remote="130646155800000000" Dst="1" />
+<file name="type.less" server="192.168.1.13//var/www/html/yii/" local="130682955770910073" remote="130646155800000000" Dst="1" />
+<file name="utilities.less" server="192.168.1.13//var/www/html/yii/" local="130682955771010120" remote="130646155800000000" Dst="1" />
+<file name="variables.less" server="192.168.1.13//var/www/html/yii/" local="130682955771150863" remote="130646155800000000" Dst="1" />
+<file name="wells.less" server="192.168.1.13//var/www/html/yii/" local="130682955771210080" remote="130646155800000000" Dst="1" />
+</dwsync>
