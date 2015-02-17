@@ -1,0 +1,142 @@
+*{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#menu
+{
+	background-color: #192666;
+	border-radius:4px;
+}
+
+#nav li
+{
+ display:inline-block;
+ padding-top:3px; 
+}
+
+#nav a
+{
+	display:block;
+	float:left;
+	text-decoration:none;
+	text-transform:uppercase; 
+	width:150px;
+	height:32px;
+	color:white;
+	padding-top:15px;
+	text-align:center;
+	border-right:1px solid gray;
+	border-radius:4px;
+}
+
+#nav li[id=home]:hover
+{
+	background-color:#3653e8;
+}
+
+#nav li[id=pictures]:hover
+{
+	background-color:#3653e8;
+}
+
+#nav li[id=contact]:hover
+{
+	background-color:#3653e8;
+}
+
+#nav li[id=places]:hover
+{
+	background-color:#3653e8;
+}
+
+#linkedin
+{
+	float:right;
+	background-image: url('../img/LinkedIn32.png');
+	background-repeat:no-repeat;
+	width:32px;
+	background-position:center;
+	
+}
+
+#linkedin a
+{
+	overflow:hidden;
+	color:transparent;	
+}
+
+#twiter
+{
+	float:right;
+	background-image: url('../img/Twitter32.png');
+	background-repeat:no-repeat;
+	width:32px;
+	background-position:center;
+}
+
+#twiter a
+{
+	overflow:hidden;
+	color:transparent;	
+}
+
+
+#facebook
+{
+	float:right;
+ 	background-image: url('../img/Facebook32.png');
+	background-repeat:no-repeat;
+	width:32px;
+	background-position:center;
+}
+
+#facebook a
+{
+	overflow:hidden;
+	color:transparent;
+}
+
+table{
+	display:block;
+}
+td,th{
+	text-align:justify;
+	width:150px;
+}
+
+#lightbox a a:link  {color:#000000; background-color:transparent}
+#lightbox a:visited {color:#000000; background-color:transparent}
+#lightbox a:hover   {color:#ff0000; background-color:transparent}
+#lightbox a:active  {color:#ff0000; background-color:transparent}
+
+#overlay a a:link  {color:#000000; background-color:transparent}
+#overlay a:visited {color:#000000; background-color:transparent}
+#overlay a:hover   {color:#ff0000; background-color:transparent}
+#overlay a:active  {color:#ff0000; background-color:transparent}
+
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #666;
+	border-right: 2px solid #666;
+	}
+#lightboxDetails{
+	font-size: 0.8em;
+	padding-top: 0.4em;
+	}	
+#lightboxCaption{ float: left; }
+#keyboardMsg{ float: right; }
+#closeButton{ top: 5px; right: 5px; }
+
+#lightbox img{ border: none; clear: both;} 
+#overlay img{ border: none; }
+
+#overlay{ background-image: url(overlay.png); }
+
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}
+	
