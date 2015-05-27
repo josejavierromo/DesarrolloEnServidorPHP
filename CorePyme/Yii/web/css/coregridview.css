@@ -1,0 +1,8 @@
+.grid-view .table thead{
+	background-color: #343046;
+	border-color: #f3b760;
+}
+
+.grid-view .table thead a{
+	color:white;
+}

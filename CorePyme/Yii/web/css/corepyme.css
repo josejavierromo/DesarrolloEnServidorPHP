@@ -1,0 +1,201 @@
+/* CSS Document */
+body{
+	background-color: #d7d5de;	
+}
+
+.navbar-inverse{
+	/*background-color: #343046;*/
+	background: -webkit-linear-gradient(left,white,#343046);
+	border-color: white;
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a:hover
+{
+	color:#f3b760;
+	background-color: transparent;
+}
+.navbar-inverse .navbar-nav > li > a:focus{
+		color: #343046;
+		background-color:#f3b760;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+	color: #343046;
+	background-color: #f3b760;
+}
+
+.footer {
+	height: 60px;
+	background-color: #343046;
+	text-align:center;
+	padding-top: 0px;
+	border-color:white;
+}
+
+.site-index{
+	text-align: center;
+}
+
+#menu .container{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+}
+
+#menu .navbar-header{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.dropdown,
+.dropdown-toggle{
+	color:white;
+}
+
+.navbar-left .dropdown,
+.navbar-left .dropdown-toggle{
+	color:#343046;
+}
+
+#shadowHeader{
+	background: -webkit-linear-gradient(left,#f3b760,transparent);
+	height:3px;
+}
+
+#shadowFooter{
+	background: -webkit-linear-gradient(right,#f3b760,transparent);
+	height:3px;
+}
+
+#userInfo{
+	font-size:9pt;
+	line-height:9pt;
+	margin-right:15px;
+}
+
+#userInfo .navbar-text{
+	margin-top:8px;
+	margin-bottom:0px;
+}
+
+#userInfo .navbar-text .text-right{
+	color:#f3b760;
+}
+
+#userInfo .navbar-text .dropdown-toggle{
+	color:#eee;
+}
+
+.navbar-brand {
+	padding-top:7px;
+	padding-bottom: 0px
+}
+
+#pnlDefault{
+	background-color: white;
+	border-bottom: 1px solid;
+	border-color:#f3b760;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px 0px 0px 0px;
+	width:50%;
+}
+
+#pnlMain{
+	background-color:transparent;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:12%;
+}
+
+#modCustomers,
+#modConfiguration,
+#modSeguridad{
+	margin-top:20px;
+	margin-left:7px;
+	margin-right:7px;
+	height:215px;
+	padding: 0px 0px 0px 0px;
+	border-color:#f3b760;
+}
+
+#modCustomers .panel-heading,
+#modConfiguration .panel-heading,
+#modSeguridad .panel-heading
+{
+	font-size:130%;
+}
+
+.panel-default .panel-heading{
+	background-color:#343046;
+	color:white;
+}
+
+.panel-default .panel-footer{
+	background-color:white;
+	border-top: 1px solid #343046;
+	height:55px;
+}
+
+.panel-heading .modal{
+	color:#333;
+
+}
+
+.form-signin{
+	padding: 0px 15px 0px 15px;
+}
+
+.form-signin .input-group{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.form-signin .btn-group{
+	margin-bottom:5px;
+}
+
+.btn-default:hover{
+	background-color: #343046;
+	color:white;
+}
+
+.form-control[type="text"]:focus,
+.form-control[type="password"]:focus{
+	background-color:#f3b760;
+	border-color: white;
+	color:black;
+}
+
+.footer .progress{
+	position: relative;
+	float:right;
+	top:7px;
+	right:5px;
+	width:25%;
+}
+
+.breadcrumb{
+	background-color:transparent;
+}
+
+.companies-form,
+.offices-form,
+.offices-select{
+	margin: 15px 15px 15px 15px;
+}
+
+.help-block{
+	display:inline-block;
+	margin-top:0px;
+	margin-bottom: 0px;
+	margin-left:2px;
+}
